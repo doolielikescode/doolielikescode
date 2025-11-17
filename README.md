@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Doolie</h1>
 <h3 align="center">13 y/o and interested in the world of Code.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doolielikescode" alt="doolielikescode" /></a> </p>
-
 - Im currently working on [Project Glide](https://discord.gg/kNEedBDUQJ)
 
 - Im currently familiar with **Python**
